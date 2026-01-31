@@ -236,11 +236,13 @@ Secret Vault（私密保险箱）是一款轻量级、注重隐私的密码管�
 ### 截图
 
 <p align="center">
-  <img src="assets/screenshots/screenshot_1.jpg" width="250" alt="密码管理" />
-  &nbsp;&nbsp;
-  <img src="assets/screenshots/screenshot_2.jpg" width="250" alt="私密笔记" />
-  &nbsp;&nbsp;
-  <img src="assets/screenshots/screenshot_3.jpg" width="250" alt="设置" />
+  <img src="assets/screenshots/screenshot_0.jpg" width="180" alt="锁屏" />
+  &nbsp;
+  <img src="assets/screenshots/screenshot_1.jpg" width="180" alt="密码管理" />
+  &nbsp;
+  <img src="assets/screenshots/screenshot_2.jpg" width="180" alt="私密笔记" />
+  &nbsp;
+  <img src="assets/screenshots/screenshot_3.jpg" width="180" alt="设置" />
 </p>
 
 ### 安装
