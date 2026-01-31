@@ -72,11 +72,13 @@ Secret Vault is a lightweight, privacy-focused password manager and private note
 ### Screenshots
 
 <p align="center">
-  <img src="assets/screenshots/screenshot_1.jpg" width="250" alt="Password Manager" />
-  &nbsp;&nbsp;
-  <img src="assets/screenshots/screenshot_2.jpg" width="250" alt="Private Notes" />
-  &nbsp;&nbsp;
-  <img src="assets/screenshots/screenshot_3.jpg" width="250" alt="Settings" />
+  <img src="assets/screenshots/screenshot_0.jpg" width="180" alt="Lock Screen" />
+  &nbsp;
+  <img src="assets/screenshots/screenshot_1.jpg" width="180" alt="Password Manager" />
+  &nbsp;
+  <img src="assets/screenshots/screenshot_2.jpg" width="180" alt="Private Notes" />
+  &nbsp;
+  <img src="assets/screenshots/screenshot_3.jpg" width="180" alt="Settings" />
 </p>
 
 ### Installation
