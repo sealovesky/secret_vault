@@ -1,0 +1,3 @@
+CFBundleDisplayName = "私密保险箱";
+CFBundleName = "私密保险箱";
+NSFaceIDUsageDescription = "使用面容ID解锁私密保险箱";

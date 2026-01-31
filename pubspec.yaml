@@ -1,0 +1,73 @@
+name: secret_vault
+description: >-
+  Secret Vault (私密保险箱) - 注重隐私的本地密码管理器与私密笔记应用，
+  所有数据在设备本地 AES-256 加密存储，支持生物识别和 PIN 码认证。
+homepage: https://github.com/sealovesky/secret_vault
+repository: https://github.com/sealovesky/secret_vault
+issue_tracker: https://github.com/sealovesky/secret_vault/issues
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+  # 生物识别认证
+  local_auth: ^2.1.8
+
+  # 本地安全存储
+  flutter_secure_storage: ^9.0.0
+
+  # 状态管理
+  provider: ^6.1.1
+
+  # 加密
+  encrypt: ^5.0.3
+
+  # 数据库
+  sqflite: ^2.3.0
+  path: ^1.8.3
+
+  # UI组件
+  cupertino_icons: ^1.0.6
+  flutter_slidable: ^3.0.1
+
+  # 国际化时间
+  intl: ^0.20.2
+
+  # 哈希
+  crypto: ^3.0.3
+
+  # 文件分享和选择
+  share_plus: ^10.1.4
+  file_picker: ^8.1.7
+
+  # 日志
+  logger: ^2.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+  flutter_launcher_icons: ^0.13.1
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon/app_icon.png"
+  adaptive_icon_background: "#6C63FF"
+  adaptive_icon_foreground: "assets/icon/app_icon_foreground.png"
+
+flutter:
+  generate: true
+  uses-material-design: true
+
+  assets:
+    - assets/icon/

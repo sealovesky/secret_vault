@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- 简洁的盾牌轮廓 - 和认证页面一致 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2"
+        android:pathData="M54,24 L76,32 L76,52 C76,68 54,82 54,82 C54,82 32,68 32,52 L32,32 L54,24 Z M54,28 L36,35 L36,52 C36,65 54,77 54,77 C54,77 72,65 72,52 L72,35 L54,28 Z"/>
+
+    <!-- 中心勾选标记 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M48,52 L52,56 L62,46 L65,49 L52,62 L45,55 Z"/>
+</vector>
