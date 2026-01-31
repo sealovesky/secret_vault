@@ -72,8 +72,11 @@ Secret Vault is a lightweight, privacy-focused password manager and private note
 ### Screenshots
 
 <p align="center">
-  <!-- TODO: Add screenshots -->
-  <em>Screenshots coming soon</em>
+  <img src="assets/screenshots/screenshot_1.jpg" width="250" alt="Password Manager" />
+  &nbsp;&nbsp;
+  <img src="assets/screenshots/screenshot_2.jpg" width="250" alt="Private Notes" />
+  &nbsp;&nbsp;
+  <img src="assets/screenshots/screenshot_3.jpg" width="250" alt="Settings" />
 </p>
 
 ### Installation
@@ -231,8 +234,11 @@ Secret Vault（私密保险箱）是一款轻量级、注重隐私的密码管�
 ### 截图
 
 <p align="center">
-  <!-- TODO: 添加截图 -->
-  <em>截图即将添加</em>
+  <img src="assets/screenshots/screenshot_1.jpg" width="250" alt="密码管理" />
+  &nbsp;&nbsp;
+  <img src="assets/screenshots/screenshot_2.jpg" width="250" alt="私密笔记" />
+  &nbsp;&nbsp;
+  <img src="assets/screenshots/screenshot_3.jpg" width="250" alt="设置" />
 </p>
 
 ### 安装
